@@ -1,0 +1,5 @@
+# Created at 2024-06-25T11:11:15.448
+Boot Manifest-JAR contains absolute paths in classpath 'D:\MOBITEL\Office Applications\ESMS_APPLICATION\NEW_WEB_PORTAL\CBP Deployment\mSMSEnterprise Web Backend\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
